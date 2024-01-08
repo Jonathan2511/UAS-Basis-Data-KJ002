@@ -5,8 +5,10 @@ Project Tugas Akhir untuk memenuhi UAS Mata Kuliah Basis Data KJ002, Dirancang o
 Dosen Pengampu: MUNAWAR, S.TP, MM, Ph.D
 
 ERD:
+![image](https://github.com/Jonathan2511/UAS-Basis-Data-KJ002/assets/96692358/0a849a39-9751-4147-bb23-8f7e7a4ecb33)
+![image](https://github.com/Jonathan2511/UAS-Basis-Data-KJ002/assets/96692358/fbc2a1b9-a86f-4845-9402-e3818f6581ea)
 
-![erd](https://i.ibb.co/qryQzTX/ERD-CONCEPTUAL.png)
+
 
 # Deskripsi
 PT Esa Unggul Express adalah perusahaan ekspedisi pengiriman barang dengan fokus pelayanan di 5 regional pulau Jawa. Berpusat di Jakarta, perusahaan ini memiliki Head Office dan 5 Gerai sebagai Gudang dan tempat transit barang. Setiap gerai melayani pengiriman khusus sesuai daerahnya, dengan 1 Kasir dan 2 Kurir setiap gerai.
